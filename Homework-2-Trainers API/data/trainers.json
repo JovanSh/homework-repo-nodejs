@@ -1,0 +1,29 @@
+[
+  {
+    "id": "98e9e53b-1cb3-45cc-a6cc-a58cadc3c305",
+    "firstName": "Jovan",
+    "lastName": "Shapchevski",
+    "email": "jovansapcevski0@gmail.com",
+    "isCurrentlyTeaching": false,
+    "timeEmployed": "3 months",
+    "coursesFinished": 4
+  },
+  {
+    "id": "6b1c4d1d-089a-4541-932b-00cfd5de5ae8",
+    "firstName": "Bob",
+    "lastName": "Hess",
+    "email": "email",
+    "isCurrentlyTeaching": true,
+    "timeEmployed": "7 years",
+    "coursesFinished": 189
+  },
+  {
+    "id": "d35cd37a-6d45-4337-a2f2-900c5f414b26",
+    "firstName": "Greg",
+    "lastName": "Simons",
+    "email": "email",
+    "isCurrentlyTeaching": true,
+    "timeEmployed": "2 weeks",
+    "coursesFinished": 1
+  }
+]
